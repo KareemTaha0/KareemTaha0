@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @KareemTaha0
 - 👀 I’m interested in Programing using Java , Python an C+++
-- 🌱 I’m currently a Computer Science Student
+- 🌱 I’m currently a Computer Science Student (First year)
+mainly focusing on data right now. (python mainly)
