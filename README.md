@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karim Taha</h1>
-<h3 align="center">Computer Science Student | Aspiring Cloud Engineer ☁️</h3>
+
+<h3 align="center">
+Computer Science Student • Aspiring Cloud Engineer ☁️
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Cloud+Engineer;Linux+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Cloud+Engineer;Linux+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,79 +14,73 @@
 
 - 🎓 Computer Science student at **Obour University for Science and Technology (OUST)**
 - ☁️ Currently learning **Cloud Engineering**
-- 🐧 Exploring Linux, Networking, Docker, and Cloud Technologies
-- 💻 Passionate about Backend Development and System Design
-- 📚 Constantly improving my programming and problem-solving skills
-- 🎯 Long-term goal: Build scalable cloud infrastructure and become a Cloud Engineer
+- 🐧 Learning **Linux**, **Networking**, **Docker**, and **AWS**
+- 💻 Interested in Backend Development & Cloud Infrastructure
+- 📚 Always building projects and improving my skills
+- 🎯 Goal: Become a Cloud Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,mysql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode" />
+</p>
 
 ### Currently Learning
-- Cisco Networking
-- Linux Administration
-- Docker
-- AWS Cloud
-- Git & GitHub
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KareemTaha0&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemTaha0&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,bash" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KareemTaha0&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KareemTaha0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemTaha0&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌱 Learning Progress
+## 🔥 Current Focus
 
-```text
-Linux          ████████████████░░░░
-Networking     ██████████████░░░░░░
-Docker         ████████░░░░░░░░░░░░
-AWS            ██████░░░░░░░░░░░░░░
-```
-
----
-
-## 📂 Current Projects
-
-- ☁️ Cloud Engineering Labs
-- 🐧 Linux Practice & Automation
-- 🌐 Cisco Networking Labs
-- 💻 Java Projects
+- ☁️ Cloud Engineering
+- 🐧 Linux Administration
+- 🌐 Cisco Networking
+- 🐳 Docker
 - 📚 Data Structures & Algorithms
 
 ---
 
-## 📫 Contact
+## 📂 Featured Projects
 
-- 📧 Email: *Coming Soon*
-- 💻 GitHub: **github.com/KareemTaha0**
+> 🚧 I'm currently building projects that showcase my journey in Cloud Engineering, Linux, Networking, and Java.
+
+---
+
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:kareemtaha699@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kareemtaha699%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/KareemTaha0">
+    <img src="https://img.shields.io/badge/GitHub-KareemTaha0-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"Build. Break. Learn. Repeat."</i>
+  <b>Build • Learn • Improve • Repeat 🚀</b>
 </p>
