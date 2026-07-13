@@ -5,7 +5,7 @@ Computer Science Student • Aspiring Cloud Engineer ☁️
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Cloud+Engineer;Linux+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Cloud+Engineer;Linux+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,11 +13,11 @@ Computer Science Student • Aspiring Cloud Engineer ☁️
 ## 🚀 About Me
 
 - 🎓 Computer Science student at **Obour University for Science and Technology (OUST)**
-- ☁️ Currently learning **Cloud Engineering**
-- 🐧 Learning **Linux**, **Networking**, **Docker**, and **AWS**
-- 💻 Interested in Backend Development & Cloud Infrastructure
-- 📚 Always building projects and improving my skills
-- 🎯 Goal: Become a Cloud Engineer
+- ☁️ Currently pursuing **Cloud Engineering**
+- 🐧 Passionate about Linux, Networking, and Cloud Infrastructure
+- 💻 Interested in Backend Development & System Design
+- 📚 Always learning new technologies and building projects
+- 🎯 Goal: Become a Cloud Engineer and build scalable cloud solutions
 
 ---
 
@@ -26,61 +26,85 @@ Computer Science Student • Aspiring Cloud Engineer ☁️
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,bash" />
 </p>
 
-### Tools & Technologies
+### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,ubuntu,git,github" />
 </p>
 
 ### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,bash,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KareemTaha0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemTaha0&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Current Focus
+## 📚 Current Focus
 
 - ☁️ Cloud Engineering
 - 🐧 Linux Administration
-- 🌐 Cisco Networking
+- 🌐 Cisco Networking (CCNA)
 - 🐳 Docker
-- 📚 Data Structures & Algorithms
+- 📦 Git & GitHub
+- 📖 Data Structures & Algorithms
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master Linux Fundamentals
+- 🔄 Complete Cisco CCNA
+- 🔄 Learn Docker
+- 🔄 Learn Kubernetes
+- 🔄 Learn Terraform
+- 🔄 Earn AWS Cloud Practitioner
+- 🔄 Build 10+ Cloud Projects
+- 🔄 Contribute to Open Source
 
 ---
 
 ## 📂 Featured Projects
 
-> 🚧 I'm currently building projects that showcase my journey in Cloud Engineering, Linux, Networking, and Java.
+🚧 **Coming Soon**
+
+I'm currently building projects focused on:
+
+- ☁️ Cloud Engineering
+- 🐧 Linux
+- 🌐 Networking
+- 💻 Java
+- 📚 Data Structures & Algorithms
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-<p>
+<p align="left">
   <a href="mailto:kareemtaha699@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kareemtaha699%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-kareemtaha699%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/KareemTaha0">
-    <img src="https://img.shields.io/badge/GitHub-KareemTaha0-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-KareemTaha0-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+<div align="center">
+
+### 💡 Favorite Quote
+
+*"The best way to predict the future is to build it."*
+
+</div>
+
+---
+
 <p align="center">
-  <b>Build • Learn • Improve • Repeat 🚀</b>
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
